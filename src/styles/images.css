@@ -1,0 +1,40 @@
+
+/* Add your profile image here */
+.Photo{
+    background-image: url('https://images.pexels.com/photos/3799821/pexels-photo-3799821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+}
+/* Projects Photo */
+.project1{
+    background-image: url('./Imagespro/covidtracker.png');
+    cursor: none;    
+}
+.project2{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Project+two');
+    cursor: none;
+}
+.project3{
+    background-image: url('https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2019/09/brain_AI_shutterstock_Jozsef-Bagota.jpg');
+    cursor: none;
+}
+.project4{
+    background-image: url('https://cdn3.f-cdn.com//files/download/112061035/ef9aeb.jpg');
+    cursor: none;
+}
+
+/* Miscelaneous Activities photo */
+.misc1{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+one');
+    cursor: none;
+}
+.misc2{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+two');
+    cursor: none;
+}
+.misc3{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+three');
+    cursor: none;
+}
+/* Contact form parallax effect image */
+.parallax{
+    background-image: url('https://images.pexels.com/photos/691668/pexels-photo-691668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+}
